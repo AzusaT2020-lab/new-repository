@@ -10,3 +10,10 @@ h2 {
 h2 {
   font-size: 35px;
 }
+.img {
+  float: left;
+}
+.btn-primary {
+  margin: 20px 0;
+  font-family: "Courier New", Courier, monospace;
+}
