@@ -1,17 +1,31 @@
 h1,
-h2 {
+h2,
+h3 {
   font-family: "Courier New", Courier, monospace;
   font: size 40px;
 }
 h2 {
-  font-size: 40px;
+  font-size: 45px;
+  color: blue;
 }
-.img {
-  display: block;
-  margin: 20px auto;
-}
+
 .btn-primary {
-  margin: 20px 0;
+  margin: 400px 200px 200px;
   font-family: "Courier New", Courier, monospace;
+  float: left;
+  padding: 10px 30px;
+}
+.photo {
+  margin: 20px auto;
   float: right;
+  width: 400px;
+  padding: 65px 0;
+}
+
+.container {
+  position: relative;
+}
+.texts {
+  position: absolute;
+  padding: 160px 100px 160px 100px;
 }
